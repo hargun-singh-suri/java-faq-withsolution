@@ -1,4 +1,4 @@
-package questionOne;
+package question_1;
 
 import java.util.*;
 
